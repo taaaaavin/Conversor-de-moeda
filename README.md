@@ -29,10 +29,10 @@ Este é um projeto de **Conversor de Moedas** desenvolvido em Java com interface
 
 ## Exemplo
 
-![image](https://github.com/user-attachments/assets/8c31ce4f-c35e-47a9-a95c-100b994a0bff)
+![image](https://github.com/user-attachments/assets/c713a2b3-6d5b-4a46-89c1-7f85701723bd)
 </br>
-![image](https://github.com/user-attachments/assets/0aa58055-2779-4f93-a74b-9c08cb18b75b)
+![image](https://github.com/user-attachments/assets/f15a89e4-5ab3-4730-987e-3cee59a09507)
 </br>
-![image](https://github.com/user-attachments/assets/81b7392a-bc81-4a44-b4e9-27dbf1854dad)
+![image](https://github.com/user-attachments/assets/d829d1fc-7968-4fc3-9f07-20b5dee9fffe)
 </br>
-![image](https://github.com/user-attachments/assets/b586d5c3-1e88-496e-93b0-7e5dcdacc5cc)
+![image](https://github.com/user-attachments/assets/a7b3f7d8-971d-4a31-b49f-50d11e442f6c)
